@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have joined **GitHub** as a **Revenue Enablement Lead**. 
+I love _motivating_ people to hit their targets and _reach their goals_.
